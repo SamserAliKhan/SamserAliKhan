@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **samseralikhan0448@gmail.com**
 
-- ⚡ Fun fact **Tech Enthusiast. Sarcastic when you get to know me.**
+- ⚡ Fun fact **I am a Tech Enthusiast. Sarcastic when you get to know me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
