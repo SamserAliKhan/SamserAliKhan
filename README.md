@@ -58,5 +58,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samseralikhan&show_icons=true&locale=en&layout=compact" alt="samseralikhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samseralikhan&show_icons=true&locale=en" alt="samseralikhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samseralikhan&" alt="samseralikhan" /></p>
