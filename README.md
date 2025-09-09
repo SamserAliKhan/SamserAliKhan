@@ -30,13 +30,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samseralikhan&label=Profile%20views&color=0e75b6&style=flat" alt="samseralikhan" /> </p>
 
 
-- 🌱 I’m currently learning **BackEnd Of WebDev**
+- I’m currently learning **How to build production worthy secure and scalable Software**
 
-- 💬 Ask me about **React,Java & Javascript**
+- Ask me about **Bakend, DevOps, CloudOps**
 
-- 📫 How to reach me **samseralikhan0448@gmail.com**
+- Expertise in domain are **Backend Architecture, System design, Cloud infrastructure**
 
-- ⚡ Fun fact **I am a Tech Enthusiast. Sarcastic when you get to know me.**
+- How to reach me **samseralikhan0448@gmail.com**
+
+- Living buy the moto -**"we learn new things everyday"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
